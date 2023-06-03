@@ -2,11 +2,11 @@
 Scratch Data is very useful module for getting data about projects, users and other from scratch.mit.edu
 ## Examples of uses</h2>
 1. How to get project data:
-\n
+<br><br>
 <code>import scratchdata
-
-get_project_stats(123456789)</code>
-\n
+  <br><br>
+  get_project_stats(123456789)</code>
+<br><br>
 Output:
-\n
+<br><br>
 <code>Views: </code>
